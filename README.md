@@ -1,2 +1,2 @@
 # geekhub
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![What is Artificial Intelligence | An Insight Into #AI | Great Learning](https://img.youtube.com/vi/uR2z_6fltW4/0.jpg)](https://www.youtube.com/watch?v=uR2z_6fltW4)
